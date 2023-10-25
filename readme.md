@@ -1,0 +1,1 @@
+This task contains difference between the Document and Window object.

@@ -1,0 +1,22 @@
+Difference between Document and Window object:
+
+Document object:
+              > The Document object represents the HTML document that is loaded 
+                in a browser window.
+              > The Document object represents the HTML documents.
+              > This includes the documents elements,attributes,and text.
+              > The Document object is the property of the Window object.
+              > This means that you can access the Document object by using the
+                window.document property.
+              > The Document object is typically used to access and manipulate
+                the HTML element of a page.
+              > To get the title of a document,you can use the document.title property.  
+
+Window object:
+            > The Window object represents the browser window itself.
+            > The window represents the browser window.
+            > This includes the windows size,position and contents.
+            > The Window object is typically used to access and manipulate the browser
+               window itself.
+            > To open a new window,you can use the window.open() method.
+            > To resize the current window,you can use the window.resizeTo() method.   
